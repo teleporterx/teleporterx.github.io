@@ -59,7 +59,7 @@ GatewayPorts yes # Allow remote hosts to connect to forwarded ports
 ```
 
 ### Example (Rocket served locally access via AWS)
-![Locally hosted Rocket app](/assets/lib/api/rust/rocket/rocket_all_interfaces.png)
+![Locally hosted Rocket app](/assets/api/rust/rocket/rocket_all_interfaces.png)
 - Basic boilerplate rocket
 - Make sure the app is served on 0.0.0.0 and not your loopback address
 - Establish the SSH tunnel
@@ -67,12 +67,12 @@ GatewayPorts yes # Allow remote hosts to connect to forwarded ports
 ssh -i ~/Vaults/tlprtrx_vault/aws/c2_autoarch_keypair.pem -R 8000:localhost:8000 -N -f ubuntu@3.110.43.104
 ```
 
-![Rocket SSH Port forwarded](/assets/lib/networking/ssh/rocket_ssh_pfwd.png)
+![Rocket SSH Port forwarded](/assets/networking/ssh/rocket_ssh_pfwd.png)
 - Make sure the sshd configuration is set up to listen on 0.0.0.0
 - Check the connection using `sudo netstat -tulnp | grep 8000`
 - Access the local app (port forwarded) via AWS. So the traffic is forwarded from the instance to the the machine hosting the local app connected via SSH.
 
-![Rocket Hello, World!](/assets/lib/api/rust/rocket/rocket_hello_world.png)
+![Rocket Hello, World!](/assets/api/rust/rocket/rocket_hello_world.png)
 
 ## 4. Connect to DocDB from outside Amazon VPC
 [ec2-bastion-host-ssh](https://repost.aws/knowledge-center/documentdb-ec2-bastion-host-ssh)
