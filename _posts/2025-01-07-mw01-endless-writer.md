@@ -1,7 +1,7 @@
 ---
 title: "Endless Writer"
 description: "Endless Writer is a simple malware coded in Rust that writes a message to a file on the user's desktop every 5 seconds."
-date: 2025-01-06
+date: 2025-01-07
 categories: [
     Malware,
     Trojan,

@@ -3,9 +3,8 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-<div style="display: flex; align-items: center;">
-  <img src="https://avatars.githubusercontent.com/u/97651440?v=4" alt="Profile Picture" style="border-radius: 50%; width: 250px; height: 250px; margin-right: 20px;" />
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://avatars.githubusercontent.com/u/97651440?v=4" alt="Profile Picture" style="border-radius: 50%; width: 250px; height: 250px; margin-bottom: 20px;" />
   <div>
     <p style="font-size: 32px; font-weight: bold; margin: 0;">Adityavarman Manjunath</p>
     <p style="
