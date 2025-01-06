@@ -3,24 +3,45 @@
 icon: fas fa-info-circle
 order: 4
 ---
-<img src="https://avatars.githubusercontent.com/u/97651440?v=4" alt="Profile Picture" style="border-radius: 50%; width: 250px; height: 250px; margin-right: 20px;" />
+
+<div style="display: flex; align-items: center;">
+  <img src="https://avatars.githubusercontent.com/u/97651440?v=4" alt="Profile Picture" style="border-radius: 50%; width: 250px; height: 250px; margin-right: 20px;" />
+  <div>
+    <p style="font-size: 32px; font-weight: bold; margin: 0;">Adityavarman Manjunath</p>
+    <p style="
+      font-size: 12px; 
+      font-weight: bold; 
+      margin: 0; 
+      font-family: 'Press Start 2P', monospace; 
+      color: #00ff00; 
+      text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 20px #00ff00;
+      animation: glitch 5s infinite;
+    ">
+      Linux Backend Dev & Security Researcher
+    </p>
+
+    <!-- B.Tech and Resume Link -->
+    <p style="font-size: 18px; color:#ffffff; margin: 5px 0;">
+      <span style="font-weight: bold;">B.Tech: ECE</span> | 
+      <a href="https://drive.google.com/file/d/1DzSOz3BzGB9_M8O2eOW_rHzqRdHLIS2e/view?usp=sharing" target="_blank" style="text-decoration: none; color: #00ffff; font-weight: bold;">Resume</a>
+    </p>
+
+    <!-- City, State, Country -->
+    <p style="font-size: 14px; color: #ffffff; margin: 5px 0;">
+      <span style="font-weight: bold;"></span> Bengaluru, Karnataka, IN
+    </p>
+
+    <!-- Quote -->
+    <p style="font-size: 22px; font-style: italic; color: #ffffff; margin-top: 10px;">
+      ~The only way to do great work is to love what you do~
+    </p>
+  </div>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated blue line">
 
 <!-- Link to Google Fonts for a pixel-like style -->
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-
-<div style="text-align: center;">
-  <p style="
-    font-size: 12px; 
-    font-weight: bold; 
-    margin: 0; 
-    font-family: 'Press Start 2P', monospace; 
-    color: #00ff00; 
-    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 20px #00ff00;
-    animation: glitch 3s infinite;
-  ">
-    Linux Backend Dev & Security Researcher
-  </p>
-</div>
 
 <style>
 @keyframes glitch {
@@ -80,8 +101,6 @@ order: 4
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZzY2pubjBxaTQybWZwcHo0bmN0b3gyZTlzN3Rzem9saWY2MHFyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j6ZnG1cyxDfXjSYaVR/giphy.webp" 
   />
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated blue line">
 
 # Hi, I'm Adityavarman Manjunath:
 

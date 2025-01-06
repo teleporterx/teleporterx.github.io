@@ -3,7 +3,7 @@ title: "Hello, world!"
 description: "Collection of `Hello, world!` codes in different programming languages."
 date: 2025-01-06
 categories:
-    - tutorials
+    - Programming Tutorials
 tags:
     - Beginner
 # layout: default
