@@ -5,7 +5,7 @@ date: 2025-01-06
 categories:
     - tutorials
 tags:
-    - beginner
+    - Beginner
 # layout: default
 ---
 
