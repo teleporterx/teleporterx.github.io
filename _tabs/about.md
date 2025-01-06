@@ -3,38 +3,82 @@
 icon: fas fa-info-circle
 order: 4
 ---
+<img src="https://avatars.githubusercontent.com/u/97651440?v=4" alt="Profile Picture" style="border-radius: 50%; width: 250px; height: 250px; margin-right: 20px;" />
 
-<div style="display: flex; align-items: center;">
-  <img src="https://avatars.githubusercontent.com/u/97651440?v=4" alt="Profile Picture" style="border-radius: 30%; width: 250px; height: 250px; margin-right: 20px;" />
-  <div style="width: 20px;"></div>
-  <div style="text-align: left;">
-    <img align="right" alt="Bred the penguin chillin' by the fire." width="100" style="float: right; border-radius: 50px;" src="https://i.redd.it/qzkpthkpayz51.gif" />
-  </div>
-  <div style="width: 20px;"></div>
-  <div style="text-align: left;">
-    <img align="right" alt="Bred the penguin chillin' by the fire." width="100" style="float: right;" src="https://raw.githubusercontent.com/cszach/cszach/master/img/Fire.gif" />
-  </div>
-  <!-- space between the images -->
-  <div style="width: 20px;"></div>
-  <div style="text-align: left;">
-    <img align="right" alt="Bred the penguin chillin' by the fire." width="100" style="float: right; border-radius: 50px;" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif" />
-  </div>
-  <!-- space between the images -->
-  <div style="width: 20px;"></div>
-  <div style="text-align: left;">
-    <img align="right" alt="Bred the penguin chillin' by the fire." width="100" style="float: right; border-radius: 50px;" src="https://tryhackme-images.s3.amazonaws.com/user-avatars/61a7aee5466f2500415ffeeb-1707091688278" />
-  </div>
-  <div style="width: 20px;"></div>
-  <div style="text-align: left;">
-    <img align="right" alt="Bred the penguin chillin' by the fire." width="100" style="float: right; border-radius: 50px;" src="https://i.redd.it/qzkpthkpayz51.gif" />
-  </div>
-  <!-- space between the images -->
-  <!--
-  <div style="width: 20px;"></div>
-  <div style="text-align: left;">
-    <img align="right" alt="Bred the penguin chillin' by the fire." width="100" style="float: right; border-radius: 50px;" src="https://img1.picmix.com/output/stamp/normal/5/8/3/3/2653385_b651b.gif" />
-  </div>
-  -->
+<!-- Link to Google Fonts for a pixel-like style -->
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+<div style="text-align: center;">
+  <p style="
+    font-size: 12px; 
+    font-weight: bold; 
+    margin: 0; 
+    font-family: 'Press Start 2P', monospace; 
+    color: #00ff00; 
+    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 20px #00ff00;
+    animation: glitch 3s infinite;
+  ">
+    Linux Backend Dev & Security Researcher
+  </p>
+</div>
+
+<style>
+@keyframes glitch {
+  0% {
+    text-shadow: 2px 2px #ff0000, -2px -2px #00ff00;
+  }
+  20% {
+    text-shadow: -2px 2px #00ff00, 2px -2px #0000ff;
+  }
+  40% {
+    text-shadow: 2px -2px #ff0000, -2px 2px #0000ff;
+  }
+  60% {
+    text-shadow: -2px -2px #0000ff, 2px 2px #ff0000;
+  }
+  80% {
+    text-shadow: 1px -1px #ff00ff, -1px 1px #00ff00;
+  }
+  100% {
+    text-shadow: 2px 2px #00ff00, -2px -2px #ff0000;
+  }
+}
+</style>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img 
+    alt="Portal 1" 
+    width="80" 
+    style="border-radius: 50px;" 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZzY2pubjBxaTQybWZwcHo0bmN0b3gyZTlzN3Rzem9saWY2MHFyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j6ZnG1cyxDfXjSYaVR/giphy.webp" 
+  />
+  
+  <img 
+    alt="Bred the penguin chillin' by the fire." 
+    width="100" 
+    src="https://raw.githubusercontent.com/cszach/cszach/master/img/Fire.gif" 
+  />
+  
+  <img 
+    alt="Bred the penguin chillin' by the fire." 
+    width="100" 
+    style="border-radius: 50px;" 
+    src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-1.gif" 
+  />
+  
+  <img 
+    alt="Hacker Dev" 
+    width="100" 
+    style="border-radius: 50px;" 
+    src="https://tryhackme-images.s3.amazonaws.com/user-avatars/61a7aee5466f2500415ffeeb-1707091688278" 
+  />
+  
+  <img 
+    alt="Portal 2" 
+    width="80" 
+    style="border-radius: 50px;" 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZzY2pubjBxaTQybWZwcHo0bmN0b3gyZTlzN3Rzem9saWY2MHFyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j6ZnG1cyxDfXjSYaVR/giphy.webp" 
+  />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated blue line">
@@ -126,7 +170,6 @@ order: 4
 # 📊 GitHub Stats:
 <p> 
   <img src="https://github-readme-stats.vercel.app/api?username=teleporterx&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="teleporterx" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teleporterx&theme=dark&hide_border=false" alt="adityavarmanmanjunath" />
 </p>
 
 ### Here are some 🦜 Party Parrots:
