@@ -37,7 +37,7 @@ order: 4
   -->
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated blue line">
 
 # Hi, I'm Adityavarman Manjunath:
 
@@ -157,4 +157,4 @@ order: 4
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30" alt="Mustache Parrot"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated blue line">
