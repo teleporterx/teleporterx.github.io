@@ -4,6 +4,7 @@ description: "Collection of `Hello, world!` codes in different programming langu
 date: 2025-01-06
 categories:
     - Programming Tutorials
+    - Generic
 tags:
     - Beginner
 # layout: default

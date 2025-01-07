@@ -15,6 +15,9 @@ tags: [
 # layout: default
 ---
 
+> This is for educational purposes only. The author is not responsible for any damage caused by this malware.
+{: .prompt-warning}
+
 | Malware | Endless Writer |
 |---------|----------------|
 | Type    | Trojan         |
@@ -134,4 +137,26 @@ fn main() {
         sleep(Duration::from_secs(5)); // Pause for 5 seconds
     }
 }
+```
+
+### Steps to build and run the malware
+
+> Do not run this code on your physical machine. Always run malware in a controlled environment.
+{: .prompt-danger}
+
+1. Create a new Rust project using `cargo new endless_writer`.
+2. Replace the contents of the `main.rs` file with the code above.
+3. Build the project using `cargo build --release`.
+4. Navigate to the target directory using `cd target/release`.
+5. Copy the executable in the target directory to a controlled environment.
+6. Run the executable.
+
+```bash
+cargo new endless_writer
+cd endless_writer
+# Replace the contents of the main.rs file with the code above
+cargo build --release
+cd target/release
+# Copy the executable to a controlled environment
+./endless_writer
 ```
