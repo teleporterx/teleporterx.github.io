@@ -7,9 +7,9 @@ categories: [
     SSH
 ]
 tags: [
-    SSH,
-    Port Forwarding,
-    Remote Access,
+    ssh,
+    port-forwarding,
+    remote-access,
 ]
 # layout: default
 ---

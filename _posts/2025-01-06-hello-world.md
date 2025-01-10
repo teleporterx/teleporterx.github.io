@@ -6,7 +6,7 @@ categories:
     - Programming Tutorials
     - Generic
 tags:
-    - Beginner
+    - beginner
 # layout: default
 ---
 
